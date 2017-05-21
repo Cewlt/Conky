@@ -22,6 +22,8 @@ public class Conky {
         } catch (Exception exception) {
             exception.printStackTrace();
         }
+
+        //
     }
 
     public static ChatHandler getHandler(String keyword) {
