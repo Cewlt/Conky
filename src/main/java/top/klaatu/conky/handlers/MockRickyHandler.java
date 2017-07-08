@@ -21,7 +21,7 @@ public class MockRickyHandler extends ChatHandler {
     public enum Rickyism {
         ONE("A link is only as long as your longest strong chain"),
         TWO("Alright, Heisenstein"),
-        THREE("Awkwardly Situation"),
+        THREE("Awkwardaly Situation"),
         FOUR("Beauty is in the eye when you hold her"),
         FIVE("Can you give me a bit of credjudice?"),
         SIX("Looks like a tropical earthquake blew through here\t"),

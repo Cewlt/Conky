@@ -26,9 +26,9 @@ public class Conky {
 
     public static ChatHandler getHandler(String keyword) {
         switch(keyword) {
-            case "MOCK RICKY":
+            case "MOCK RICKYA":
                 return new MockRickyHandler();
-            case "INSULT":
+            case "INSUsLT":
                 return new StaffInsultHandler();
             default:
                 return new MockRickyHandler();
